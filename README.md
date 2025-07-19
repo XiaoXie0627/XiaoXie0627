@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"/><a href="https://github.com/sunyuhan1998"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=40&pause=2000&center=true&vCenter=true&width=700&lines=Hi%2CI'm+Sun+Yuhan!" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"/><a href="https://github.com/CodeCodeAscension"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=40&pause=2000&center=true&vCenter=true&width=700&lines=Hi%2CI'm+CodeCodeAscension!" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 ##  🔤 Languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
+[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift&theme=light)]([https://skillicons.dev](https://github.com/CodeCodeAscension))
 
 ##  🔧 Frameworks and tools I use
 
@@ -34,8 +34,6 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 ### ▼ 2025
 * Spring AI
 * MCP
-* A2A
-* langchain4j
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
