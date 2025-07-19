@@ -5,14 +5,9 @@
 </div>
 
 ## 🧑‍💻 About me
+---
 
-I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Technologies** ☁️, and the seamless integration of **AI into real-world applications** 🧠. My goal is to build scalable, intelligent systems that drive innovation and solve meaningful problems.
-
-😄 I enjoy contributing to open-source projects and collaborating with passionate developers around the world.
-
-⚡️ I have a strong interest in almost all kinds of digital devices and emerging technologies.
-
-🎮 A cross-platform gaming enthusiast with a passion for game history and console evolution.
+I am a sophomore majoring in Computer Science, currently working as a development intern at Anker. My internship mainly involves projects related to MCP, Spring AI, and large language models—areas I am truly passionate about. I enjoy delving into these cutting-edge technologies and sharing my learning journey. I have also created my personal tech brand “CodeCodeAscension” on Douyin, where I discuss technical topics and share insights on social media. Feel free to follow my Douyin account: 44564254111, and join our QQ groups: 957107236, 1047084604. Let’s learn and grow together!
 
 ##  🔤 Languages I use
 
