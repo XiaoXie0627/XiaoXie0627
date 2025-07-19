@@ -5,9 +5,6 @@
 </div>
 
 ## 🧑‍💻 About me
-
-我是一名大二的计算机专业学生，目前在 Anker 进行开发实习，主要参与与 MCP、Spring AI 以及大模型相关的项目开发。我对这些前沿技术充满热情，并乐于深入学习和探索。除此之外，我还在抖音创建了个人技术 IP “CodeCodeAscension”，喜欢与大家一起讨论技术问题，并在社交媒体上分享我的学习内容。欢迎关注我的抖音账号：44564254111，也欢迎加入我们的 QQ 群：957107236、1047084604，一起交流成长！
-
 ---
 
 I am a sophomore majoring in Computer Science, currently working as a development intern at Anker. My internship mainly involves projects related to MCP, Spring AI, and large language models—areas I am truly passionate about. I enjoy delving into these cutting-edge technologies and sharing my learning journey. I have also created my personal tech brand “CodeCodeAscension” on Douyin, where I discuss technical topics and share insights on social media. Feel free to follow my Douyin account: 44564254111, and join our QQ groups: 957107236, 1047084604. Let’s learn and grow together!
