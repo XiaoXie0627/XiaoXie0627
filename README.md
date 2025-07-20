@@ -12,38 +12,31 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 **B.Tech in Computer Engineering** from *RK University, Gujarat*
-- 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
-- 🧪 Skilled in solving problems using **Python**, **TensorFlow**, **Scikit-learn**, **Pandas**, and more
-- 📊 Love transforming raw data into actionable insights and intelligent models
-- 💡 Curious about **NLP**, **Computer Vision**, and **AI Automation**
-- 📫 Reach me at: **shubhamgajera200@gmail.com**
+- 🎓 I am a **sophomore majoring in Computer Science**.
+- 💼 Currently working as a **development intern at Anker**.
+- 🛠️ My internship mainly involves projects related to **MCP, Spring AI, and large language models**—areas I am truly passionate about.
+- 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
+- 🌟 I have also created my personal tech brand **“CodeCodeAscension”** on Douyin, where I discuss technical topics and share insights on social media.
+- 📱 **Douyin account:** 44564254111
+- 👥 **QQ groups:** 957107236, 1047084604
+- 🤝 Let’s **learn and grow together!**
 
 ---
 
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" />
+  <img src="https://img.shields.io/badge/SpringAI-6DB33F?logo=spring&logoColor=white" height="30" title="Spring AI" />
+  <img src="https://img.shields.io/badge/MCP-FF9900?logo=code&logoColor=white" height="30" title="MCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="ReactJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" title="Dart" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" title="TensorFlow" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" title="PyTorch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" title="Scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" title="Pandas" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" title="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring" />
+  <img src="https://img.shields.io/badge/Nacos-00BFFF?logo=apache&logoColor=white" height="30" title="Nacos" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="30" title="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux" />
 </p>
 
 ---
