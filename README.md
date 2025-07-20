@@ -41,36 +41,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CodeCodeAscension&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=CodeCodeAscension&show_icons=true&theme=react&count_private=true" />
-      </td>
-      <td>
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCodeAscension&layout=compact&theme=react" />
-      </td>
-      <td>
-        <img height="150" src="https://github-readme-streak-stats-taupe-tau.vercel.app?user=CodeCodeAscension&theme=react" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 ### 🎮 Contribution Graph
 
 <picture>
