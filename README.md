@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CodeCodeAscension/CodeCodeAscension/blob/main/assets/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
+  <img src="https://github.com/CodeCodeAscension/CodeCodeAscension/blob/main/assets/1855f158146303174b6e13ecb887ff4f.jpg?raw=true" alt="Java No.1" width="100%" />
 </p>
 
 <h1 align="center">
