@@ -12,14 +12,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I am a **sophomore majoring in Computer Science**.
-- 💼 Currently working as a **development intern at Anker**.
-- 🛠️ My internship mainly involves projects related to **MCP, Spring AI, and large language models**—areas I am truly passionate about.
-- 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
-- 🌟 I have also created my personal tech brand **“CodeCodeAscension”** on Douyin, where I discuss technical topics and share insights on social media.
-- 📱 **Douyin account:** 44564254111
-- 👥 **QQ groups:** 957107236, 1047084604
-- 🤝 Let’s **learn and grow together!**
+
 
 ---
 
